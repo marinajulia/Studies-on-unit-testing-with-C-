@@ -1,0 +1,12 @@
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\marin\OneDrive\Área de Trabalho\Studies-on-unit-testing-with-C-\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\ref\Demo.dll
