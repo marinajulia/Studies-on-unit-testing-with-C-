@@ -34,5 +34,13 @@
             //Assert
             Assert.Equal(total, resultado);
         }
+
+        //Assert's:
+
+        //Assert.Equal("string", "String", true); o terceiro parâmetro  é o ignoreCase
+        //Assert.StartsWith("Mar", "Marina", true); se começa com o valor proposto
+        //Assert.StartsWith("ina", "Marina", true); se termina com o valor proposto
+        //Assert.Contains("ina", "Marina"); se contém o valor dentro de outra string
+        //Assert.Matches("[Regex]", valor_cpf); para validar itens como cpf, email..
     }
 }
