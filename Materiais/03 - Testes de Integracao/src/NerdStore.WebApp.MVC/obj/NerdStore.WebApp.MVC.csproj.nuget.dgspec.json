@@ -1,0 +1,627 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {}
+  },
+  "projects": {
+    "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectName": "NerdStore.Core",
+        "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "fluentvalidation": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+        "projectName": "NerdStore.Vendas.Application",
+        "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+        "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              },
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
+        "projectName": "NerdStore.Vendas.Data",
+        "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
+        "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              },
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+        "projectName": "NerdStore.Vendas.Domain",
+        "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+        "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "fluentvalidator": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+        "projectName": "NerdStore.Catalogo.Application",
+        "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+        "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
+              },
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "automapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+        "projectName": "NerdStore.Catalogo.Data",
+        "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+        "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.sqlserver": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+        "projectName": "NerdStore.Catalogo.Domain",
+        "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+        "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+        "projectName": "NerdStore.WebApp.MVC",
+        "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+        "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              },
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj"
+              },
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj"
+              },
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj"
+              },
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
+              },
+              "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+                "projectPath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
