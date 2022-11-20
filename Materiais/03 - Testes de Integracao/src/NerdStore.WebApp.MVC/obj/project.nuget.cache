@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lVKATp8X+k+d3RfPA+HmpmoxlW0OBFQaCyJB03AjWlndJ7uvRaEdQsmmCzymkhi4j0oD4ShWeGqfsz1e+Nfe2Q==",
+  "dgSpecHash": "SRgdh0YtKzJ4jMWS2tNwuZb8jlO1Yt83ValxNNFxKEWnz6jV6SDJqQmwwlSuOiAjJbcygx/jIetE5y+UE/XgGQ==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+  "projectFilePath": "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marin\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

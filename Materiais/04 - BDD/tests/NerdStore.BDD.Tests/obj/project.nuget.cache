@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kXo5Fp/EwKR2GPCokB4rwx4yGk5Qg5SeNkn0HtUXRNLx0oV8N0aB6g/ZLYRHxCKOWMhwQ+onItYPVnzts5bGiQ==",
+  "dgSpecHash": "ZvfCGTml84BuKO5rllqVFSu3oWIh+TXmq/0PlesC64cFzJbXmnNltrqwAQgi/A6v0pVMADi3DKE14O+2R+AytA==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\04 - BDD\\tests\\NerdStore.BDD.Tests\\NerdStore.BDD.Tests.csproj",
+  "projectFilePath": "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Materiais\\04 - BDD\\tests\\NerdStore.BDD.Tests\\NerdStore.BDD.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marin\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\bogus\\28.3.2\\bogus.28.3.2.nupkg.sha512",

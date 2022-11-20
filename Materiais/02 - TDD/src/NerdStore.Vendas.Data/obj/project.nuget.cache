@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dOD2vvjDlTI3C3/A0qa944NXRF8yYLc5aDxChcaAXWL3SgCZV2IU3jqy3c2L8pVrlEiCEzksw+lm+5bz5pMC+w==",
+  "dgSpecHash": "QxzLRmoAWrQZb6n/O0MvT4FQ8I0Qxvc688nqn+zKmisXfFT3uRxaUx91vbVENE+zqdYnoCU1IIE0fGQ1Te8jug==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
+  "projectFilePath": "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Materiais\\02 - TDD\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marin\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\fluentvalidator\\2.0.4\\fluentvalidator.2.0.4.nupkg.sha512",

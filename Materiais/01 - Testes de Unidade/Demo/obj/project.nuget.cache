@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d0PJtbiC6oirL8fCEAiUFXTYotwqkbsMI6nXXs/XmAhGoSECAoxc4pB9+rueuj7SwyH69Gr0gE6ya9Z9JLfq+Q==",
+  "dgSpecHash": "V5QrACsbJbOGCmQ6KbsSDR2VBYY9jTMSdhiopr7O3I0loaViyMFpIIrf+bBwds7PAzXSTBc0aHZHLA0Qb3Gz7w==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\01 - Testes de Unidade\\Demo\\Demo.csproj",
+  "projectFilePath": "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Materiais\\01 - Testes de Unidade\\Demo\\Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marin\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

@@ -11,26 +11,26 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Features", "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\M" +
-    "ateriais\\01 - Testes de Unidade\\Features", "Features.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Features.Tests", "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\M" +
-    "ateriais\\01 - Testes de Unidade\\Features.Tests", "Features.Tests.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Application", "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\M" +
-    "ateriais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application", "NerdStore.Catalogo.Application.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Data", "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\M" +
-    "ateriais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data", "NerdStore.Catalogo.Data.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Domain", "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\M" +
-    "ateriais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain", "NerdStore.Catalogo.Domain.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Core", "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\M" +
-    "ateriais\\02 - TDD\\src\\NerdStore.Core", "NerdStore.Core.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Application", "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\M" +
-    "ateriais\\02 - TDD\\src\\NerdStore.Vendas.Application", "NerdStore.Vendas.Application.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Data", "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\M" +
-    "ateriais\\02 - TDD\\src\\NerdStore.Vendas.Data", "NerdStore.Vendas.Data.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Domain", "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\M" +
-    "ateriais\\02 - TDD\\src\\NerdStore.Vendas.Domain", "NerdStore.Vendas.Domain.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.WebApp.MVC", "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\M" +
-    "ateriais\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC", "NerdStore.WebApp.MVC.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Features", "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Ma" +
+    "teriais\\01 - Testes de Unidade\\Features", "Features.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Features.Tests", "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Ma" +
+    "teriais\\01 - Testes de Unidade\\Features.Tests", "Features.Tests.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Application", "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Ma" +
+    "teriais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application", "NerdStore.Catalogo.Application.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Data", "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Ma" +
+    "teriais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Data", "NerdStore.Catalogo.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Catalogo.Domain", "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Ma" +
+    "teriais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain", "NerdStore.Catalogo.Domain.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Core", "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Ma" +
+    "teriais\\02 - TDD\\src\\NerdStore.Core", "NerdStore.Core.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Application", "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Ma" +
+    "teriais\\02 - TDD\\src\\NerdStore.Vendas.Application", "NerdStore.Vendas.Application.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Data", "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Ma" +
+    "teriais\\02 - TDD\\src\\NerdStore.Vendas.Data", "NerdStore.Vendas.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.Vendas.Domain", "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Ma" +
+    "teriais\\02 - TDD\\src\\NerdStore.Vendas.Domain", "NerdStore.Vendas.Domain.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("NerdStore.WebApp.MVC", "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Ma" +
+    "teriais\\03 - Testes de Integracao\\src\\NerdStore.WebApp.MVC", "NerdStore.WebApp.MVC.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("NerdStore.WebApp.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

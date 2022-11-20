@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yj1GYZ1LIg/xRUCm/noe1S7xV8oUEb6doXblhUMG8+od+8aw709h+RvfxUYDkERh4MPJcbsWjo9ghxz9ZsLEqg==",
+  "dgSpecHash": "+694OFqI7jGM9bmPEZHkZhSXyb6dhEdKWbgr5lMis1zPsfbU84R961DZgVv9WudHyXQddvCPRmyL59/mF68kWQ==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
+  "projectFilePath": "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Materiais\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marin\\.nuget\\packages\\bogus\\28.0.3\\bogus.28.0.3.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

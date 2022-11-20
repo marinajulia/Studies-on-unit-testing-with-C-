@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7qHS/dwIGFd2AZAkdDL9l0gXFvUagovz6VKiQBhudUZ7qW0+8rYuYL23GC/u3TnyuF+SKpcvWCZNRjG/jVArZQ==",
+  "dgSpecHash": "PuiL+NpLfHMGrcn/uRpaz6aHB7itjMSD0+m3lC1EDaYypm40wbwmYWViK6nB20tqnNK04F/KJehM4iUK25qY2g==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+  "projectFilePath": "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marin\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",

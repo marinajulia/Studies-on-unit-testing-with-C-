@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TQ8aLSS+HF/pNN1+xNhRGZsbeXLvS1b7MlMflWxZQatqcSD6AOaQH8TprKbLfBHw5DRB6lJfB8zS4wFzLjym3g==",
+  "dgSpecHash": "thhwpf6yL53nUiiH3+aZz0xKF/aiNub+kxolrUxtE9lZLKSYMa7JwZ+9xhiuOCX0nQ32rXhgtpbhsPJc4Zfnvw==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+  "projectFilePath": "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Materiais\\03 - Testes de Integracao\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marin\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",

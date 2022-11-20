@@ -40,9 +40,9 @@ namespace Features.Tests
             var clientes = new Faker<Cliente>("pt_BR")
                 .CustomInstantiator(f => new Cliente(
                     Guid.NewGuid(), 
-                    f.Name.FirstName(genero),
+                    f.Name.FirstName(genero), //nome com base no genero
                     f.Name.LastName(genero),
-                    f.Date.Past(80,DateTime.Now.AddYears(-18)),
+                    f.Date.Past(80,DateTime.Now.AddYears(-18)), // o 80 é "até quanto tempo vai pode voltar atrás", o 18 é pq o cliente não pode ter menos que 18 anos
                     "",
                     ativo,
                     DateTime.Now))

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cfATiWOdKtbsjf2wCLyAbHzjglFKmltYgzMDx+dFT1kJcHp/GzaM29JK7ii1SGKF4+/axW4cWBs3dmi9OY8QSg==",
+  "dgSpecHash": "eFNnTgCd8EnGZVxuFw6PzEi6Kd68VM9UuFo/N0y+9sq9U4eiwZCRWP15vcXlM1u603EoOY26ofie8/9rBSnH/g==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Dominando os Testes de Software - Eduardo Pires  - by Claudinovski\\Materiais\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\marin\\OneDrive\\Área de Trabalho\\teste\\Studies-on-unit-testing-with-C-\\Materiais\\03 - Testes de Integracao\\tests\\NerdStore.WebApp.Tests\\NerdStore.WebApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marin\\.nuget\\packages\\anglesharp\\0.13.0\\anglesharp.0.13.0.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
